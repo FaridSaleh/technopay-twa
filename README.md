@@ -1,1 +1,0 @@
-# technopay-twa

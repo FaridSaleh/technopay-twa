@@ -1,0 +1,10 @@
+ir.technopay.twa.app-core-1.1.0-0 /Users/kian/.gradle/caches/8.8/transforms/2144911bb09dce3a07f407e3b390637e/transformed/core-1.1.0/res
+ir.technopay.twa.app-browser-1.4.0-1 /Users/kian/.gradle/caches/8.8/transforms/b511174c15fdde7dea3e957094b4390b/transformed/browser-1.4.0/res
+ir.technopay.twa.app-androidbrowserhelper-2.5.0-2 /Users/kian/.gradle/caches/8.8/transforms/d3335fbdff4200978ad121d7b141def7/transformed/androidbrowserhelper-2.5.0/res
+ir.technopay.twa.app-pngs-3 /Users/kian/Projects/technopay-twa/app/build/generated/res/pngs/release
+ir.technopay.twa.app-resValues-4 /Users/kian/Projects/technopay-twa/app/build/generated/res/resValues/release
+ir.technopay.twa.app-packageReleaseResources-5 /Users/kian/Projects/technopay-twa/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+ir.technopay.twa.app-packageReleaseResources-6 /Users/kian/Projects/technopay-twa/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+ir.technopay.twa.app-release-7 /Users/kian/Projects/technopay-twa/app/build/intermediates/merged_res/release/mergeReleaseResources
+ir.technopay.twa.app-main-8 /Users/kian/Projects/technopay-twa/app/src/main/res
+ir.technopay.twa.app-release-9 /Users/kian/Projects/technopay-twa/app/src/release/res
